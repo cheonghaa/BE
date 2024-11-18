@@ -1,4 +1,4 @@
-package org.kdt.mooluck.elder.dto;
+package org.kdt.mooluck.domain.elder.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
